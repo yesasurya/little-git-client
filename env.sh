@@ -1,0 +1,3 @@
+export GITHUB_USERNAME=
+export GITHUB_PASSWORD=
+export GITHUB_URL=
